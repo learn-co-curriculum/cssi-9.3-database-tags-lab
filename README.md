@@ -28,4 +28,4 @@ This lab will expand your blog capabilities even furthur!  After this lab you wi
 + Make the site look better with CSS and more creative HTML
 + Validate tag content and title name
 
-<a href='https://learn.co/lessons/cssi-9.3-database-tags-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-9.3-database-tags-lab' title='Python Database Blog Tags Lab'>Python Database Blog Tags Lab</a> on Learn.co and start learning to code for free.</p>
